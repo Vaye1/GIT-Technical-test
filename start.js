@@ -10,8 +10,8 @@ server.start();
 ServiceManager.init([
     {
         type:"app",
-        appId:"10002",
-        host:"0.0.0.0",
+        appId:"soc",
+        host:"app",
         port:3002
     }
 ]);
