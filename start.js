@@ -13,5 +13,11 @@ ServiceManager.init([
         appId:"10002",
         host:"0.0.0.0",
         port:3002
+    },
+    {
+        type:"app",
+        appId:"10003",
+        host:"0.0.0.0",
+        port:3003
     }
 ]);
